@@ -4,10 +4,10 @@
 
 ### [https://brunokrinski.github.io/GiphySearch/#/](https://brunokrinski.github.io/GiphySearch/#/)
 
-![example1](images/1.png)
+![example1](images/1a.png)
 
-![example2](images/2.png)
+![example2](images/2a.png)
 
-![example3](images/3.png)
+![example3](images/3a.png)
 
-![example3](images/4.png)
+![example3](images/4a.png)
